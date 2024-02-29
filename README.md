@@ -19,7 +19,10 @@ Computer vision is an interdisciplinary field that deals with how computers can 
 
 Here are the experiments included in this repository:
 
-1. **Experiment 1:** Canny Edge Detection and Morphological Operations - An experiment that demonstrates the effects of Canny edge detection and morphological operations on image processing and object detection.
+1. **Experiment 1:** Canny Edge Detection and Morphological Operations - An experiment that demonstrates the effects of Canny edge detection and morphological operations on image processing and object detection. This experiment involvs:
+    - Apply Canny edge detection algorithm to highlight edges in the given image.
+    - Apply morphology operations on image to suit the requirement of object detection.
+    - Alter the parameters and conclusion of the results.
 2. **Experiment 2:** Difference of Gaussian (DoG) Edge Detection - This experiment aims to identify edge points in an image by applying a Difference of Gaussian filter. The experiment involves:
     - Task 1: Application of a pair of Gaussian filters to determine DoG.
     - Task 2: Variation of size and standard deviations of Gaussian filters.
